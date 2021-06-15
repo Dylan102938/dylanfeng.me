@@ -1,0 +1,16 @@
+{
+  "name": "vendor_name/dylanfeng",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "dylan",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "google/recaptcha": "1.2.4",
+    "phpmailer/phpmailer": "v6.1.7"
+  }
+}
